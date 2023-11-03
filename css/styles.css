@@ -105,10 +105,10 @@ img {
   color: var(--main-color);
   font-size: 14px;
 }
-/* .main-content-item:nth-child(-n+2), .main-content-image {
-  margin-bottom: 62px
-} */
 .main-content-image {
+  margin-bottom: 62px
+}  
+.main-content-item:nth-child(n+3)  .main-content-image {
   margin-bottom: 32px;
 }
 .main-content-btn {
